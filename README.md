@@ -10,7 +10,7 @@ Python-skripti partiolaisten adventtikalenterien myyntikampanjan seuraamiseen ja
 -   Mahdollisuus vertailla kuluvan vuoden tuloksia edellisiin vuosiin (beta)
 -   Mahdollisuus ladata generoidut csv-tiedostot automaattisesti Google Driveen (beta)
 
-Jupyter notebook-muotoisesta tiedostosta voi ajaa vain käytön kannalta tarpeellisia soluja, ja koodia voi muokata helposti eri käyttötarkoitusten mukaiseksi (esim. kalenterimyynnin eri maksutavat)
+Jupyter notebook-muotoisesta tiedostosta voi ajaa vain käytön kannalta tarpeellisia soluja, ja koodia voi muokata helposti eri käyttötarkoitusten mukaiseksi (esim. kalenterimyynnin eri maksutavat).
 
 ## Esivalmistelut
 
